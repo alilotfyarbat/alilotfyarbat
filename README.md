@@ -26,21 +26,3 @@
   </a>
 </p>
 
----
-
-### **📬 راه‌های ارتباطی (Connect with me)**
-
-<p align="center">
-<a href="https://linkedin.com/in/..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="..." height="30" width="40" /></a>
-<a href="https://instagram.com/..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="..." height="30" width="40" /></a>
-<a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="..." height="30" width="40" /></a>
-</p>
-
----
-
-### **📊 آمار گیت‌هاب من**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alilotfyarbat&show_icons=true&locale=fa&theme=vision-friendly-dark&hide_border=true&card_width=450" alt="آمار گیت‌هاب علی" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alilotfyarbat&layout=compact&locale=fa&theme=vision-friendly-dark&hide_border=true" alt="زبان‌های برتر" />
-</div>
