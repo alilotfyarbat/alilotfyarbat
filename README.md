@@ -57,18 +57,6 @@
 
 ---
 
-## 🚀 پروژه شاخص
-
-<div align="center">
-
-| پروژه | توضیحات | تکنولوژی‌ها |
-|-------|---------|-------------|
-| **[My-GPT](https://github.com/alilotfyarbat/My-Gpt)** | رابط کاربری وب برای هوش مصنوعی محلی — اجرای مدل‌های LLM بدون اینترنت با مقایسه همزمان چند مدل و دو نسخه استاندارد و سفارشی | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white) |
-
-</div>
-
----
-
 ## 📫 ارتباط با من
 
 برای **همکاری در پروژه‌ها**، **سفارش طراحی و توسعه** یا حتی یک **گفتگوی ساده درباره هوش مصنوعی و برنامه‌نویسی**، خوشحال می‌شم از طریق راه‌های زیر در ارتباط باشیم:
