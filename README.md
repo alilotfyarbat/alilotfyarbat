@@ -29,8 +29,6 @@
   <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
 </p>
 
-> 💡 از مدل‌های زبانی بزرگ برای افزایش بهره‌وری استفاده می‌کنم و مدل‌های محلی را با **Ollama** روی سیستم خودم اجرا می‌کنم — نمونه‌اش پروژه [My-GPT](https://github.com/alilotfyarbat/My-Gpt) است.
-
 ---
 
 ## 💻 برنامه‌نویسی و توسعه وب
